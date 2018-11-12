@@ -1,3 +1,3 @@
-this is new project.
-creating a new branch is quick &simple.
-creating a new branch is quick AND simple.
+this is new project
+creating a new branch is quick.
+new dev.
